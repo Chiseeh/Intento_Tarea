@@ -1,11 +1,12 @@
 {
   "Characters": [
     {
-      "foto": "https://media2.giphy.com/media/TMXwaCIruZP2w/giphy.gif",
+      "id": 1,
       "nombre": "Goku_Namek",
       "detalle": "El Mismisimo Goku de namek nada mas que decir",
       "Comentario": "No se si va a funcionar el crud mi estimado",
-      "id": 1
+      "foto": "https://media2.giphy.com/media/TMXwaCIruZP2w/giphy.gif"
+
     }
   ]
 }
